@@ -1,0 +1,1 @@
+{ "rules": { "distraction-free": { "$room": { ".read": "auth != null", ".write": "auth != null" } } } }
