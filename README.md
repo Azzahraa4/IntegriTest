@@ -1,4 +1,4 @@
-# Ponsel Bebas Distraksi (PWA + Firebase Realtime Database)
+# IntegriTest (PWA + Firebase Realtime Database)
 
 ## Struktur
 - `js/sensor.js` – Accelerometer, Proximity (jika ada), State Machine (SETUP → ON_DESK ⇄ LIFTED)
