@@ -1,4 +1,4 @@
-const CACHE = "df-phone-v2";
+const CACHE = "df-phone-v3";
 const SHELL = ["./", "index.html", "student.html", "supervisor.html", "css/style.css", "css/ai.css", "manifest.webmanifest", "icon.svg",
   "js/config.js", "js/pwa.js", "js/landing.js", "js/sensor.js", "js/student.js", "js/supervisor.js", "js/storage.js", "js/firebase-client.js",
   "js/ai-risk.js", "js/ai-report.js", "js/ai-dashboard.js"];
