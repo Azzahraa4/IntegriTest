@@ -5,7 +5,7 @@ export const T = {
   ENTER_Z: -8.0, ENTER_TILT: 2.5,   // ambang masuk ke posisi "di meja" (ketat)
   STAY_Z: -6.5,  STAY_TILT: 4.5,    // ambang bertahan (longgar = histeresis)
   ARM_HOLD_MS: 1000,                // harus stabil 1 dtk agar dianggap diletakkan
-  LIFT_HOLD_MS: 2000,                // keluar dari posisi >2000 ms = LIFTED
+  LIFT_HOLD_MS: 250,                // keluar dari posisi >250 ms = LIFTED
   RESTORE_HOLD_MS: 1000,            // stabil 1 dtk = RESTORED
   ALPHA: 0.2,                       // low-pass filter akselerometer
 };
